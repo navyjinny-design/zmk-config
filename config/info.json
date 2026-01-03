@@ -1,8 +1,8 @@
 {
-  "keyboard": "keyball44",
-  "layouts": {
+  "keyboards": {
     "keyball44": {
-      "layout": "LAYOUT"
+      "name": "Keyball44",
+      "layouts": ["default"]
     }
   }
 }
